@@ -10,7 +10,11 @@
         <h3>{{age}} year old french student developer</h3>
       </div>
     </div>
+
+    <div>
+      
     </div>
+  </div>
 </template>
 
 <script lang="ts">
